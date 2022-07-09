@@ -1,0 +1,94 @@
+1. what is  node js ?
+
+ans :- Node.js is an open source server environment; Node.js is free ; 
+       Node.js can generate dynamic page content; Node.js can create, open, read, write, delete etc.
+
+    hindi:- Node.js एक खुला स्रोत सर्वर वातावरण है; Node.js मुफ़्त है;
+            Node.js गतिशील पृष्ठ सामग्री उत्पन्न कर सकता है; Node.js बना सकते हैं, खोल सकते हैं, पढ़ सकते हैं, लिख सकते हैं, हटा सकते हैं आदि।
+
+
+2. what is http module ? 
+
+ans :- HTTP is a Node.js module which can be used to create HTTP server and client applications in JavaScript.
+      
+    hindi:- HTTP एक Node.js मॉड्यूल है जिसका उपयोग जावास्क्रिप्ट में HTTP सर्वर और क्लाइंट एप्लिकेशन बनाने के लिए किया जा सकता है।
+
+
+       Node. js has a built-in module called HTTP, which allows Node. 
+       js to transfer data over the Hyper Text Transfer Protocol (HTTP).
+       To include the HTTP module, use the require() method: var http = require('http');
+
+
+    hindi:- नोड. js में HTTP नामक एक अंतर्निहित मॉड्यूल है, जो Node.
+        js हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल (HTTP) पर डेटा ट्रांसफर करने के लिए।
+        HTTP मॉड्यूल को शामिल करने के लिए, आवश्यकता () विधि का उपयोग करें: var http = आवश्यकता ('http');
+
+
+3. what is url ?
+
+ans :- uniform/universal resource locator (the address of a World Wide Web page).
+     
+
+     A URL is nothing more than the address of a given unique resource on the Web.
+
+
+      A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. 
+      It is also referred to as a web address.
+
+
+4. what is file system module in node js ?
+
+ans :- The Node.js file system module allows you to work with the file system on your computer. 
+      To include the File System module,
+
+
+      The built-in Node. js file system module helps us store, access, and manage data on our operating system
+
+
+5. what is host ?
+
+ans:- A network host is a computer or other device connected to a computer network. 
+      A host may work as a server offering information resources,
+      
+      
+      नेटवर्क होस्ट एक कंप्यूटर या कंप्यूटर नेटवर्क से जुड़ा अन्य उपकरण है। एक मेजबान सूचना संसाधनों की पेशकश करने वाले सर्वर के रूप में काम कर सकता है,
+
+
+6. what is port ?
+
+ans :- Ports are virtual places within an operating system where network connections start and end.
+
+
+hindi:- पोर्ट एक ऑपरेटिंग सिस्टम के भीतर आभासी स्थान होते हैं जहां नेटवर्क कनेक्शन शुरू और समाप्त होते हैं।
+
+
+7. what is a Protocol ?
+
+ans :-  A protocol is a set of rules and guidelines for communicating data. 
+      Rules are defined for each step and process during communication two or more computers.
+
+
+hindi:- प्रोटोकॉल डेटा संचार के लिए नियमों और दिशानिर्देशों का एक समूह है।
+      दो या दो से अधिक कंप्यूटरों के संचार के दौरान प्रत्येक चरण और प्रक्रिया के लिए नियम परिभाषित किए गए हैं।
+
+
+
+8. what is event module ? 
+
+ans:- Node. js has a built-in module, called "Events", where you can create-, fire-, 
+      and listen for- your own events.
+
+
+hindi :- नोड. js में एक अंतर्निहित मॉड्यूल है, जिसे "ईवेंट" कहा जाता है, जहां आप अपनी खुद की घटनाओं को बना सकते हैं, 
+      आग लगा सकते हैं और सुन सकते हैं।
+
+
+
+9. what is nodemon ?
+
+ans:- nodemon is a tool that helps develop node. js based applications by automatically restarting 
+      the node application when file changes in the directory are detected.
+
+
+hindi:- नोडमॉन एक उपकरण है जो नोड को विकसित करने में मदद करता है। जब निर्देशिका में फ़ाइल परिवर्तन का पता चलता है तो नोड 
+      एप्लिकेशन को स्वचालित रूप से पुनरारंभ करके जेएस आधारित एप्लिकेशन।
