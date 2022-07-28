@@ -34,7 +34,7 @@ const info = async ()=>{
         }
     } catch (error) {
         console.log('undefined comming from here');
-        console.log(error.messege);
+        console.log('please check your connection\ntry again');
     }
 }
 info()
